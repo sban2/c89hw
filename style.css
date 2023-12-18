@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    color: white;
+}
+#login {
+    color: white;
+    background-color: rgb(7, 0, 66);
+    border: 0px;
+    width: 50px;
+    height: 30px;
+}
